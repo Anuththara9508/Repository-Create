@@ -1,2 +1,4 @@
 text file. 
 we need to add the type of the function in the name
+For word use .txt file
+Similar to Excel use .csv
