@@ -2,3 +2,4 @@ text file.
 we need to add the type of the function in the name
 For word use .txt file
 Similar to Excel use .csv
+Mark down file has .md extension similar to text file but can add more aesthetic to the document.
