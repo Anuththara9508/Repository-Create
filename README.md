@@ -12,4 +12,4 @@ Intro to GitHub
 
 [Link to Google](https://www.google.com/)
 
-![This is an image of myself](Anu 1.pnj)
+![This is an image of myself](Headshot of Anu)
